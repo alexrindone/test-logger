@@ -1,0 +1,12 @@
+{
+  "name": "iapplogger",
+  "version": "0.1.0",
+  "description": "This is a logging module for the IAPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [],
+  "author": "Alex Rindone",
+  "license": "ISC"
+}
