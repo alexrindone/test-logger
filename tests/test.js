@@ -1,3 +1,4 @@
+// Would be nicer in ruby. Convert to Ruby.
 const logger = require('../logger');
 const assert = require('assert');
 const Log = new logger();
